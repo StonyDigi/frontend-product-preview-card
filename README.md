@@ -1,5 +1,7 @@
 # Frontend Mentor - Product preview card component
 
+Check at here in LIVE: https://product-preview-card-somossylaszlo.netlify.app
+
 ![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
